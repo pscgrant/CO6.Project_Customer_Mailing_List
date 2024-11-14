@@ -1,0 +1,7 @@
+Customer information:
+Name: Sean Grant
+Address: 1234 Main Street, Walnut Creek, CA 94595
+Phone number: (123) 456-7890
+Customer Number: 12345
+On Mailing list: True
+Bye!
